@@ -1,8 +1,13 @@
-# Hello :snail: :frog: 🌞
+# Hello 🐌 🐸 🌞
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrig12&show_icons=true&theme=merko&count_private=true) 
+I am a PhD candidate at the University of Toronto supervised by [Quaid Morris](https://www.morrislab.ca/) and [Kieran Campbell](https://www.camlab.ca/) with experience in:
 
+🦀 cancer genomics \
+🔬 high dimensional multiplexed imaging \
+📊 data science & probabilistic modelling \
+🤖 machine learning \
+🐍 programming in python & R
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrig12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+<br>
+
+![Cait's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrig12&show_icons=true&theme=merko&count_private=true) 
