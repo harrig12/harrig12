@@ -1,6 +1,8 @@
 # Hello 🐌 🐸 🌞
 
-I am a PhD candidate at the University of Toronto supervised by [Quaid Morris](https://www.morrislab.ca/) and [Kieran Campbell](https://www.camlab.ca/) with experience in:
+I am a postdoc in the [Park lab](https://compbio.hms.harvard.edu/) at Harvard medschool.
+
+With experience in:
 
 🦀 cancer genomics \
 🔬 high dimensional multiplexed imaging \
